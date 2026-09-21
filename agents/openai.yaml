@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clay + JEV People Ranker"
+  short_description: "Qualify Clay people searches with TypeSafe JEV"
+  default_prompt: "Use $clay-jev-people-ranker to find and rank people from Clay with JEV."
