@@ -192,13 +192,6 @@ python scripts/rank_clay_people.py \
 
 The runner pages the same forward-only Clay search until it reaches the target, Clay is exhausted, the candidate cap is reached, or the quota safeguard stops it. It writes timestamped JSON and CSV files under `outputs/`.
 
-## Privacy and data handling
-
-- The shared package contains no API keys, workspace IDs, search IDs, or lead records.
-- The JEV request receives matched job titles and dates, not names, LinkedIn URLs, or Clay profile IDs.
-- Local result files contain identifying fields for the selected prospects because those fields are required to use the list.
-- Never commit or redistribute generated results without an appropriate lawful basis and review.
-
 ## Limitations and next steps
 
 - A JEV probability threshold is not measured accuracy.
