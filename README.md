@@ -249,9 +249,7 @@ Clay is a GTM data and workflow platform for finding, enriching, qualifying, and
 
 [Sign up for Clay](https://clay.com?via=ta).
 
-## GitHub discoverability
 
-Publishing this package as a standalone repository? Use the suggested description, topics, and social-preview copy in [GitHub publishing metadata](references/github-publishing.md).
 
 ## Contact
 
