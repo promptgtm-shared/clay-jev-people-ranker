@@ -142,6 +142,13 @@ Install from the maintained upstream sources:
 
 The package follows the portable Agent Skills structure and supports Claude Code, Cursor, and Grok Build. It also includes a Grok Bot private-skill import flow.
 
+Clone the repository:
+
+```bash
+git clone https://github.com/promptgtm-shared/clay-jev-people-ranker.git
+cd clay-jev-people-ranker
+```
+
 Install for one local agent:
 
 ```bash
@@ -248,8 +255,6 @@ The stricter v2 rubric qualified 472 of the first 577 candidates. A request for 
 Clay is a GTM data and workflow platform for finding, enriching, qualifying, and acting on company and people data.
 
 [Sign up for Clay](https://clay.com?via=ta).
-
-
 
 ## Contact
 
